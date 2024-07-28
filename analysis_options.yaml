@@ -1,0 +1,17 @@
+include: package:lint/analysis_options.yaml
+
+linter:
+  rules:
+    always_use_package_imports: false
+
+
+analyzer:
+  exclude:
+    - "**/*.g.dart"
+    - "**/*.freezed.dart"
+    - "**/generated/**"
+    - "lib/core/injections/locator.config.dart"
+
+  errors:
+    deprecated_member_use_from_same_package: ignore
+    invalid_annotation_target: ignore

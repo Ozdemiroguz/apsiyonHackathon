@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353181287831",
+    "project_id": "apsiyon-hackathon",
+    "storage_bucket": "apsiyon-hackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353181287831:android:945dd4e4b4d7f5cd6bb0d2",
+        "android_client_info": {
+          "package_name": "com.example.apsiyon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeoVzaFk23xak4bk2Fhw3D0OwyXif0bxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
