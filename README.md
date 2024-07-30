@@ -1,16 +1,37 @@
-# apsiyon
+# apsiyon-hackathon
 
-A new Flutter project.
 
-## Getting Started
+vscode ve ötesi
 
-This project is a starting point for a Flutter application.
+Yunus Turan ve Oğuzhan Özdemir tarafından geliştirilen Apsiyon Hackathon projesi.
 
-A few resources to get you started if this is your first Flutter project:
+Apsiyon Hackathon Projesinin Mobil Kısmı
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Apsiyon Mobil Uygulamaları
+Projemizdeki üç mobil uygulama, tesis yönetimi süreçlerini daha verimli hale getirmek için farklı kullanıcı gruplarına özel olarak tasarlanmıştır.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Apsiyon Uygulaması
+Kullanıcı Odaklı: Kullanıcılar, kişisel zaman çizelgelerini takip edebilir, yeni gönderiler ekleyebilir ve toplantılara katılabilirler.
+İletişim Kolaylığı: Uygulama, tesis sakinleri arasındaki iletişimi güçlendirerek bir topluluk hissi yaratır.
+Hizmet Talebi: Kullanıcılar, ihtiyaç duydukları hizmetleri kolayca talep edebilir ve taleplerinin durumunu takip edebilirler.
+
+2. Apsiyon Yönetici Uygulaması
+Yönetim Paneli: Tesis yöneticileri, zaman çizelgelerini ve toplantıları yöneterek işlerini daha düzenli hale getirebilirler.
+Veri Analizi: Uygulama, tesis yönetimiyle ilgili çeşitli verileri analiz ederek daha iyi kararlar alınmasını sağlar.
+Kullanıcı Yönetimi: Yöneticiler, kullanıcıları yöneterek erişim izinlerini belirleyebilir ve sistemdeki değişiklikleri takip edebilirler.
+
+3. Apsiyon 3. Şahıs Uygulaması
+Hizmet Sağlayıcıları: Dışarıdan hizmet veren kişiler, uygulama üzerinden ilan oluşturabilir, kullanıcıların hizmet taleplerine yanıt verebilir ve tokenlerini yönetebilirler.
+İş Başvuruları: Kullanıcılar, farklı işlere başvurarak yeni fırsatlar yakalayabilirler.
+Token Sistemi: Uygulama, güvenli bir token sistemi ile ödeme ve takas işlemlerini kolaylaştırır.
+
+
+Projenin Teknik Özellikleri
+
+Teknoloji:Flutter, Firebase,ZegoCloud
+
+
+
+
+
+
