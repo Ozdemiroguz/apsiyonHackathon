@@ -28,7 +28,7 @@ Token Sistemi: Uygulama, güvenli bir token sistemi ile ödeme ve takas işlemle
 
 Projenin Teknik Özellikleri
 
-Teknoloji:Flutter, Firebase,ZegoCloud
+Teknoloji:Flutter, Firebase,ZegoCloud.
 
 
 
