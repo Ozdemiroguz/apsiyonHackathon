@@ -1,33 +1,41 @@
-Apsiyon Hackathon Project
-Overview
-The Apsiyon Hackathon project, developed by Yunus Turan and Oğuzhan Özdemir, aims to enhance facility management processes through three distinct mobile applications. These apps cater to different user groups and provide efficient solutions for managing residential and commercial properties.
+## Overview
 
-Mobile Applications
-1. Apsiyon User App
-User-Centric Features:
-Users can track their personal schedules.
-Easily create and manage new posts.
-Participate in meetings.
-Enhanced Communication:
-The app fosters better communication among residents, creating a sense of community.
-Service Requests:
-Users can easily request services and track the status of their requests.
-2. Apsiyon Manager App
-Management Panel:
-Designed for property managers to efficiently manage schedules and meetings.
-Data Analysis:
-Provides data analysis related to property management, enabling better decision-making.
-User Management:
-Allows administrators to manage user access permissions and track system changes.
-3. Apsiyon Third-Party App
-Service Providers:
-External service providers can create listings, respond to service requests from users, and manage their tokens.
-Job Applications:
-Users can apply for various jobs and explore new opportunities.
-Token System:
-The app facilitates secure payment and exchange transactions using a token-based system.
-Technical Specifications
-Technology Stack:
-Flutter
-Firebase
-ZegoCloud
+The **Site Management** project, developed by Yunus Turan and Oğuzhan Özdemir, aims to enhance property management processes. The project includes three separate mobile applications targeting different user groups, with the goal of facilitating the management of residential and commercial real estate.
+
+## Mobile Applications
+
+### 1. Site Management User App
+
+- **User-Centric Features:**
+    - Users can track their personal calendars.
+    - Create and manage new posts.
+    - Participate in meetings.
+- **Advanced Communication:**
+    - The app fosters community by enhancing communication among residents.
+- **Service Requests:**
+    - Users can easily submit service requests and track their status.
+
+### 2. Site Management Admin App
+
+- **Admin Panel:**
+    - Provides facility managers with tools to organize schedules and meetings.
+- **Data Analysis:**
+    - Helps analyze property management data for better decision-making.
+- **User Management:**
+    - Administrators can manage user access permissions and track system changes.
+
+### 3. Site Management Third-Party App
+
+- **Service Providers:**
+    - External service providers can create listings, respond to service requests from users, and manage their tokens through the app.
+- **Job Applications:**
+    - Users can apply for different jobs and explore new opportunities.
+- **Token System:**
+    - The app offers a secure token-based payment and exchange system.
+
+## Technical Specifications
+
+- **Technologies Used:**
+    - Flutter
+    - Firebase
+    - ZegoCloud
