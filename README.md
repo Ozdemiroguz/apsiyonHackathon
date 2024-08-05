@@ -14,6 +14,14 @@ The **Site Management** project, developed by Yunus Turan and Oğuzhan Özdemir,
     - The app fosters community by enhancing communication among residents.
 - **Service Requests:**
     - Users can easily submit service requests and track their status.
+ 
+    <div>
+         <img src="usertimeline.jpeg" alt="Home Screen" width="200" height="auto">
+         <img src="usertoken.png" alt="Home Screen" width="200" height="auto">
+                  <img src="userthirdparyty.jpeg" alt="Home Screen" width="200" height="auto">
+
+
+   </div>
 
 ### 2. Site Management Admin App
 
