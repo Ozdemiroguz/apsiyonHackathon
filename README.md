@@ -18,7 +18,9 @@ The **Site Management** project, developed by Yunus Turan and Oğuzhan Özdemir,
     <div>
          <img src="ReadmeImages/usertimeline.jpeg" alt="Home Screen" width="200" height="auto">
          <img src="ReadmeImages/usertoken.png" alt="Home Screen" width="200" height="auto">
-                  <img src="ReadmeImages/userthirdparyty.jpeg" alt="Home Screen" width="200" height="auto">
+                  <img src="ReadmeImages/usertoke.jpeg" alt="Home Screen" width="200" height="auto">
+                                    <img src="ReadmeImages/userthirdparyty.jpeg" alt="Home Screen" width="200" height="auto">
+
 
 
    </div>
@@ -31,6 +33,9 @@ The **Site Management** project, developed by Yunus Turan and Oğuzhan Özdemir,
     - Helps analyze property management data for better decision-making.
 - **User Management:**
     - Administrators can manage user access permissions and track system changes.
+ 
+   <img src="ReadmeImages/meeting.png" alt="Home Screen" width="200" height="auto">
+      
 
 ### 3. Site Management Third-Party App
 
@@ -40,6 +45,12 @@ The **Site Management** project, developed by Yunus Turan and Oğuzhan Özdemir,
     - Users can apply for different jobs and explore new opportunities.
 - **Token System:**
     - The app offers a secure token-based payment and exchange system.
+ 
+   <img src="ReadmeImages/kurye.jpeg" alt="Home Screen" width="200" height="auto">
+                  <img src="ReadmeImages/thirdParty.png" alt="Home Screen" width="200" height="auto">
+                                    <img src="ReadmeImages/thirdparty1.png" alt="Home Screen" width="200" height="auto">
+                                                                        <img src="ReadmeImages/thirdpartymyjob.png" alt="Home Screen" width="200" height="auto">
+
 
 ## Technical Specifications
 
